@@ -1,4 +1,4 @@
 
 {
-  "presets": ["schibsted-spain"]
+  "presets": ["es2015"]
 }

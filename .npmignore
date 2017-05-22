@@ -8,8 +8,6 @@ scripts
 .eslintrc
 .gitignore
 .jscsrc
-.scss-lint.yml
-.imdone
+*.yml
 npm-debug.log
-webpack.config.js
-webpack.doc.config.js
+*.config.js
